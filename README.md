@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello!, I am Ahmed. </h1>
+</h1>
 
-<!--
-**AhmedFelic/AhmedFelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **Tech Enthusiast 💻** passionate about learning and creating interactive and user-friendly websites and web apps.  <br/><br/>
 
-Here are some ideas to get you started:
+## ⚡️ A Few Quick Notes
+- 🔭 I’m currently working on my React projects
+- 🌱 I’m currently learning React and Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ Some Tool and Tech I use
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=bootstrap"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=github"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=vscode"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=visualstudio"/></code>
+
+Feel free to browse my repositories, and check my projects 😄
