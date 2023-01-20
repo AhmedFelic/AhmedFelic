@@ -17,7 +17,6 @@ I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=bootstrap"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=github"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=vscode"/></code>
