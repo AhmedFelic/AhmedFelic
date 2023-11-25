@@ -6,8 +6,8 @@ I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **
 
 ## ⚡️ A Few Quick Notes
 - 🌐 Since feb 2023, I'm employed as a Full stack web developer so all of these are my old projects, tho feel free to browse them 😆
-- 🔭 I’m currently working on my React projects
-- 🌱 I’m currently learning React and Firebase
+- 🔭 ~~I’m currently working on my React projects~~
+- 🌱 ~~I’m currently learning React and Firebase~~
 
 
 ### ⚙️ Some Tool and Tech I use
