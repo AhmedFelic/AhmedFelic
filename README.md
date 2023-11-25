@@ -5,6 +5,7 @@
 I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **Tech Enthusiast 💻** passionate about learning and creating interactive and user-friendly websites and web apps.  <br/><br/>
 
 ## ⚡️ A Few Quick Notes
+- 🌐 Since feb 2023, I'm employed as a Full stack web developer so all of these are my old projects, tho feel free to browse them 😆
 - 🔭 I’m currently working on my React projects
 - 🌱 I’m currently learning React and Firebase
 
@@ -20,5 +21,7 @@ I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **
 <code><img height="30" src="https://skillicons.dev/icons?i=github"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=vscode"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=visualstudio"/></code>
+
+
 
 Feel free to browse my repositories, and check my projects 😄
