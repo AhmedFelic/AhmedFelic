@@ -5,7 +5,7 @@
 I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **Tech Enthusiast 💻** passionate about learning and creating interactive and user-friendly websites and web apps.  <br/><br/>
 
 ## ⚡️ A Few Quick Notes
-- 🌐 Since feb 2023, I'm employed as a Full stack web developer so all of these are my old projects, tho feel free to browse them 😆
+- 🌐 Since feb 2023, I'm employed as a Full stack web developer
 - 🔭 ~~I’m currently working on my React projects~~
 - 🌱 ~~I’m currently learning React and Firebase~~
 
