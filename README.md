@@ -24,4 +24,3 @@ I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **
 
 
 
-Feel free to browse my repositories, and check my projects 😄
